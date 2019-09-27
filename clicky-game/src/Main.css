@@ -18,7 +18,8 @@
     width: 1100px;
   }
 }
-.click-item {
+/* .click-item, */
+img {
   background-size: cover;
   background-position: 50%;
   height: 170px;
@@ -30,4 +31,9 @@
     0 3px 6px rgba(0, 0, 0, 0.23);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   cursor: pointer;
+}
+
+.container {
+  /* background-color: #f9a602; */
+  background-image: url(../src/image/GoldenBackground.jpg);
 }
